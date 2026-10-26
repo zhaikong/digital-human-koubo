@@ -20,9 +20,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
-The MIT license covers the code and documentation in this repository.
-The demo videos, presenter images (assets/avatar_ref.jpg, docs/*, style previews and
-the packaging gallery) depict the author's own AI digital humans and are provided for
-demonstration only — do not re-upload them as your own or use the presenters' likeness
-in your own content. See THIRD_PARTY.md for bundled third-party assets.

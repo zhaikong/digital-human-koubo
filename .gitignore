@@ -8,3 +8,4 @@ __pycache__/
 public/main*.mp4
 public/voice*.wav
 bin/
+config.bat
